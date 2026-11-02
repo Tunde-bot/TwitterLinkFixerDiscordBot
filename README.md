@@ -19,7 +19,7 @@ or just copy from the search bar if you're on a browser for twitter, but those a
 A paragraph or a few bullets explaining what the software does at a
 high level. If you have a diagram, embed it here:
 
-![System diagram]([docs/diagram.pn])
+![System diagram]([[docs/diagram.pn]](https://github.com/Tunde-bot/TwitterLinkFixerDiscordBot/blob/main/TwitterLinkDiscordFixer.drawio.png))
 
 ## Tech Stack
 
