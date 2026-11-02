@@ -16,8 +16,7 @@ or just copy from the search bar if you're on a browser for twitter, but those a
 
 ## How It Works
 
-A paragraph or a few bullets explaining what the software does at a
-high level. If you have a diagram, embed it here:
+Views message for twitter link with faulty aspects and amends as necessary.
 
 ![System diagram](TwitterLinkDiscordFixer.drawio.png))
 
