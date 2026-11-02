@@ -29,9 +29,6 @@ high level. If you have a diagram, embed it here:
 
 ## Setup
 
-Step-by-step: how does someone who just cloned your repo get it
-running?
-
 ```bash
 git clone https://github.com/you/your-project
 cd your-project
@@ -40,21 +37,16 @@ cd your-project
 
 ## Usage
 
-How to actually run the thing, with examples.
-
 ```bash
 ./backup.sh ~/Documents
 ```
 
 ## Roadmap
 
-Features you haven't built yet but plan to (pull these from your
-"Schedule" quadrant in the Eisenhower Matrix).
-
-- [ ]Personalizable link automatic fixing
-- [ ]Remembers different users’ preferred settings
-- [ ]Seamless activation
-- [ ]Compatibility with other sites’ links (Instagram, etc.)
+- Personalizable link automatic fixing
+- Remembers different users’ preferred settings
+- Seamless activation
+- Compatibility with other sites’ links (Instagram, etc.)
 
 
 ## Author
